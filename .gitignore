@@ -1,0 +1,12 @@
+# Assembler build artifacts
+*.sld
+*.lst
+*.sym
+*.tap
+*.sna
+*.z80
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
